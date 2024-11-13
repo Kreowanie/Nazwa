@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body
+{
+    background-color: gray;
+}
+
+
+hr {
+    border: none; 
+    height: 2px; 
+    background-color: rgb(255, 166, 0); 
+    margin: 20px 0; 
+    }
+    
