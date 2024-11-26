@@ -3,3 +3,15 @@
 @tailwind utilities;
 
 
+body
+{
+    background-color: gray;
+}
+
+
+hr {
+    border: none; 
+    height: 2px; 
+    background-color: gray; 
+    margin: 20px 0; 
+    }

@@ -38,12 +38,12 @@
                 <div class="mb-5">
                     <img src="{{ asset('images/praco2.jpg') }}" alt="Example Image" class="w-full h-auto mx-auto">
                 </div>
-                <a href="#" class="text-purple-500 text-left mt-5 font-bold">BEZ KATEGORII</a>
+                <a href="dodatek" class="text-purple-500 text-left mt-5 font-bold">BEZ KATEGORII</a>
                 <div class="text-center mt-5 mb-5 font-bold">
-                    <h6><a href="#">AGROTURYSTYKA JAKO FORMA BIZNESU</a></h6> 
+                    <h6><a href="dodatek">AGROTURYSTYKA JAKO FORMA BIZNESU</a></h6> 
                 </div>
                 <div class="text-center"> 
-                    Działalność agroturystyczna prowadzona przez rolnika na terenie należącego do niego gospodarstwa rolniczego nie podlega rejestracji. Przysługuje w takim przypadku zwolnienie podatkowe lub preferencyjne formy opodatkowania. Agroturystyka zwolniona jest również ze spełnienia warunków dla organizacji us <a href="#" class="text-blue-500 hover:text-blue-700">Więcej...</a>
+                    Działalność agroturystyczna prowadzona przez rolnika na terenie należącego do niego gospodarstwa rolniczego nie podlega rejestracji. Przysługuje w takim przypadku zwolnienie podatkowe lub preferencyjne formy opodatkowania. Agroturystyka zwolniona jest również ze spełnienia warunków dla organizacji us <a href="dodatek" class="text-blue-500 hover:text-blue-700">Więcej...</a>
                 </div>
             </div>
 
@@ -52,12 +52,12 @@
                 <div class="mb-5">
                     <img src="{{ asset('images/dodatek.jpg') }}" alt="Example Image" class="w-full h-auto mx-auto">
                 </div>
-                <a href="#" class="text-blue-500 text-left mt-5 font-bold">BEZ KATEGORII</a>
+                <a href="pracujesz" class="text-blue-500 text-left mt-5 font-bold">BEZ KATEGORII</a>
                 <div class="text-center mt-5 mb-5 font-bold">
-                    <h6><a href="#">Pracujesz w porze nocnej? Sprawdź, w jakiej wysokości przysługuje Ci dodatek!</a></h6> 
+                    <h6><a href="pracujesz">Pracujesz w porze nocnej? Sprawdź, w jakiej wysokości przysługuje Ci dodatek!</a></h6> 
                 </div>
                 <div class="text-center"> 
-                    Pracujący w porze nocnej mają prawo do dodatku do wynagrodzenia. Dodatek przysługuje za każdą godzinę pracy w czasie przypadającym na porę nocną, w wysokości 20 proc. stawki godzinowej, wynikającej z minimalnego wynagrodzenia za pracę. Aby <a href="#" class="text-blue-500 hover:text-blue-700">Więcej...</a>
+                    Pracujący w porze nocnej mają prawo do dodatku do wynagrodzenia. Dodatek przysługuje za każdą godzinę pracy w czasie przypadającym na porę nocną, w wysokości 20 proc. stawki godzinowej, wynikającej z minimalnego wynagrodzenia za pracę. Aby <a href="pracujesz" class="text-blue-500 hover:text-blue-700">Więcej...</a>
                 </div>
             </div>
 
@@ -66,12 +66,12 @@
                 <div class="mb-5">
                     <img src="{{ asset('images/praco1.jpg') }}" alt="Example Image" class="w-full h-auto mx-auto">
                 </div>
-                <a href="#" class="text-red-500 text-left mt-5 font-bold">BEZ KATEGORII</a>
+                <a href="optymizm" class="text-red-500 text-left mt-5 font-bold">BEZ KATEGORII</a>
                 <div class="text-center mt-5 mb-5 font-bold">
-                    <h6><a href="#">Optymizm polskich pracowników…</a></h6> 
+                    <h6><a href="optymizm">Optymizm polskich pracowników…</a></h6> 
                 </div>
                 <div class="text-center"> 
-                    Zdaniem Polaków nie tylko łatwo o podjęcie pracy, lecz także coraz łatwiej o czerpanie z niej satysfakcji. W bieżącym badaniu po raz pierwszy znaleźliśmy się na podium pośród krajów, w których pracownicy mają najwyższy poziom satysfakcji. Aby <a href="#" class="text-blue-500 hover:text-blue-700">Więcej...</a>
+                    Zdaniem Polaków nie tylko łatwo o podjęcie pracy, lecz także coraz łatwiej o czerpanie z niej satysfakcji. W bieżącym badaniu po raz pierwszy znaleźliśmy się na podium pośród krajów, w których pracownicy mają najwyższy poziom satysfakcji. Aby <a href="optymizm" class="text-blue-500 hover:text-blue-700">Więcej...</a>
                 </div>
             </div>
         </div>
